@@ -3,7 +3,6 @@
 #define POT A0
 
 Servo s;
-int pos;
 
 void setup() {
   pinMode(POT, INPUT);
